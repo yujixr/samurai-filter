@@ -1,0 +1,3 @@
+duckduckgo.com##div:-abp-has(> div > h2 > a[href^="https://www.sejuku.net/blog/"])
+www.google.*##div:-abp-has(> div > div > a[href^="https://www.sejuku.net/blog/"])
+www.bing.com##li:-abp-has(> h2 > a[href^="https://www.sejuku.net/blog/"])
