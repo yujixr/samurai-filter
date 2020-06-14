@@ -1,0 +1,1 @@
+duckduckgo.com##div:-abp-has(> div > h2 > a[href^="$url"])\nwww.google.*##div:-abp-has(> div > div > a[href^="$url"])\nwww.bing.com##li:-abp-has(> h2 > a[href^="$url"])
