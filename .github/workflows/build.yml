@@ -23,13 +23,7 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Build list.txt
-      run: |
-        rm -f list.txt
-        touch list.txt
-        for url in $(cat target.txt)
-        do
-          echo -e "duckduckgo.com##div:-abp-has(> div > h2 > a[href^=\"$url\"])\nwww.google.*##div:-abp-has(> div > div > a[href^=\"$url\"])\nwww.bing.com##li:-abp-has(> h2 > a[href^=\"$url\"])" >> list.txt
-        done
+      run: ./build.sh
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
