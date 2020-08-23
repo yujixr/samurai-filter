@@ -10,7 +10,7 @@ A filter for Adblock Plus & uBlock Origin that excludes [unnecessary web pages](
 |--|--|--|--|
 |uBlockOrigin|https://addons.mozilla.org/firefox/addon/ublock-origin/|https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm|https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak|
 |AdblockPlus|https://addons.mozilla.org/firefox/addon/adblock-plus/|https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb|https://microsoftedge.microsoft.com/addons/detail/adblock-plus-free-ad-bl/gmgoamodcdcjnbaobigkjelfplakmdhh|
-|NanoAdblocker|https://github.com/LiCybora/NanoCoreFirefox#nano-adblocker-core-for-firefox|https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo|https://microsoftedge.microsoft.com/addons/detail/epbkapkgcmdmfpogenoebpdeibmfinpf|
+|NanoAdblocker|https://addons.mozilla.org/firefox/addon/nano-adblocker-firefox/|https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo|https://microsoftedge.microsoft.com/addons/detail/epbkapkgcmdmfpogenoebpdeibmfinpf|
 
 2. Subscribe this filter ([click here](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/yujixr/samurai-filter/master/list.txt&title=samurai-filter))
 
