@@ -1,11 +1,9 @@
+[Adblock Plus 2.0]
 ! Title: samurai-filter
+! Updated: 2020-11-30
+! Expires: 5 days
+! Licence: https://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/yujixr/samurai-filter.git
-!
-! Licence: 
-! This file is only permitted for personal use under copyright law.
-! Commercial use or  redistribution are prohibited except as permitted by copyright law.
-!
-! Last updated: 2020-11-30
 
 duckduckgo.com##div:-abp-has(> div > h2 > a[href^="https://www.sejuku.net/blog/"])
 www.google.*##div:-abp-has(> div > div > a[href^="https://www.sejuku.net/blog/"])
