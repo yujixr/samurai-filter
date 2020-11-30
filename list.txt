@@ -1,3 +1,12 @@
+! Title: samurai-filter
+! Homepage: https://github.com/yujixr/samurai-filter.git
+!
+! Licence: 
+! This file is only permitted for personal use under copyright law.
+! Commercial use or  redistribution are prohibited except as permitted by copyright law.
+!
+! Last updated: 2020-11-30
+
 duckduckgo.com##div:-abp-has(> div > h2 > a[href^="https://www.sejuku.net/blog/"])
 www.google.*##div:-abp-has(> div > div > a[href^="https://www.sejuku.net/blog/"])
 www.google.*##div:-abp-has( > g-inner-card a[href^="https://www.sejuku.net/blog/"])
